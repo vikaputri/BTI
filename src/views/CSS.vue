@@ -1,6 +1,5 @@
 <template>
-
-    <div class="container text-center">
+    <div class="py-3  container text-center">
       <div class="row align-items-start blue">
         <div>1</div>
       </div>
@@ -56,13 +55,14 @@
   height: 150px;
   background: blue;
   border: 5px solid black;
-  padding-top: 10px;
 }
 .red2 {
   height: 40px;
   background: red;
   border: 5px solid black;
-  margin: auto;
+  margin-top: 5px;
+  margin-left:5px;
+  margin-bottom:5px;
   width: 97%;
 }
 </style>
