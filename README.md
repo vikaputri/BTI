@@ -28,3 +28,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Soal No. 2
 [API](https://bti-sigma.vercel.app/).
+
+### Soal No. 3-7
+[PDF](https://github.com/vikaputri/BTI/blob/main/Answer.pdf).
