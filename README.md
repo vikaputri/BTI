@@ -1,4 +1,4 @@
-# soal2
+# BTI
 
 ## Project setup
 ```
@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Soal No. 1
+[CSS](https://bti-sigma.vercel.app/soal1).
+
+### Soal No. 2
+[API](https://bti-sigma.vercel.app/).
