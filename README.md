@@ -21,13 +21,13 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/)
 
 ### Soal No. 1
-[CSS](https://bti-sigma.vercel.app/soal1).
+[CSS](https://bti-sigma.vercel.app/soal1)
 
 ### Soal No. 2
-[API](https://bti-sigma.vercel.app/).
+[API](https://bti-sigma.vercel.app/)
 
 ### Soal No. 3-7
-[PDF](https://github.com/vikaputri/BTI/blob/main/Answer.pdf).
+[PDF](https://github.com/vikaputri/BTI/blob/main/Answer.pdf)
