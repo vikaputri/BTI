@@ -118,20 +118,17 @@
 
 export default {
   name: 'ListJob',
-  data() {
-    return {
-      visible: false,
-      //answer: {},
-    };
-  },
-  //methods: {
-  //  async getAnswer() {
-  //    const { data } = await axios.get("https://bti.id/services/btiportalcorems/api/pt-job-posts/no-auth");
-  //    this.answer = data;
-  //  },
+  //data() {
+  //  return {
+  //    data: {},
+  //  };
   //},
-  //beforeMount() {
-  //  this.getAnswer();
-  //},
+  //mounted() {
+  //  axios
+  //    .get('https://bti.id/services/btiportalcorems/api/pt-job-posts/no-auth')
+  //    .then((response) => {
+  //      console.log(response)
+  //    })
+  //}
 }
 </script>
