@@ -33,7 +33,7 @@
           <b-collapse id="collapse-1" class="mt-2">
             <b-card class="bg-light">
               <div class="card-text">
-                <h2 class="text-success mb-1">Marketing Planner</h2>
+                <h2 class="text-success mb-2">Marketing Planner</h2>
                 <h5><strong>Job Description :</strong></h5>
                   <ul>
                     <li>Monitor competition to identify new industry trends and opportunities for innovation</li>
@@ -85,7 +85,7 @@
           <b-collapse id="collapse-2" class="mt-2">
             <b-card class="bg-light">
               <div class="card-text">
-                <h2 class="text-success mb-1">Marketing Planner</h2>
+                <h2 class="text-success">Marketing Planner</h2>
                 <h5><strong>Job Description :</strong></h5>
                   <ul>
                     <li>Monitor competition to identify new industry trends and opportunities for innovation</li>
